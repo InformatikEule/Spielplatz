@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+    <h3>My Hobbies:</h3>
+    <ol>
+        <li>Eulen natürlich! kannst du lesen?</li>
+        <li>Raketen</li>
+        <li>Orbital-Mechanik</li>
+    </ol>
+    <a href="index.php">Back to Mainsite</a>
+    </body>
+</html>
